@@ -1,6 +1,4 @@
-<h1 align="center"> Cartão de crédito Rocketpay </h1>
-
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 - HTML e CSS
 - JavaScript e JSON
